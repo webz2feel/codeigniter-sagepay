@@ -1,7 +1,8 @@
+SAGEPAY payment gateway integration for CodeIgniter
+---
+
 AUTHOR
 Miguel Guerreiro
-
-SAGEPAY payment gateway integration for CodeIgniter
 
 VERSION 0.4 (only tested using Simulator account for now)
 
